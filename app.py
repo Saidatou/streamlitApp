@@ -8,6 +8,7 @@ st.title("Yoo Pi!!!! C'est le Weekend")
 st.header("Part 1: Data Exploration")
 st.write("In this section, we will explore the Altair cars dataset.")
 st.markdown("*Further resources [here](https://altair-viz.github.io/gallery/selection_histogram.html)*")
+st.markdown("*My streamlit app [here](https://sasasa.streamlit.app/)*")
 
 slider = st.slider("Slider title", 0, 100, 50)
 check = st.checkbox("Checkbox title", ["Add a constant", "Add beta 1", "Add beta 2"])
