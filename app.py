@@ -3,7 +3,7 @@ import streamlit as st
 
 
 st.write("Hello World")
-st.title("Data Visualization web application")
+st.title("Yoo Pi!!!! C'est le Weekend")
 
 st.header("Part 1: Data Exploration")
 st.write("In this section, we will explore the Altair cars dataset.")
